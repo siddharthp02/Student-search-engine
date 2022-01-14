@@ -5,5 +5,6 @@ Uses hashmaps, BST, and file data.
 --NOT FINAL VERSION--
 
 ## Setup
+
 Run writetofile to enter records.
 Run hashmap to search for an records.
